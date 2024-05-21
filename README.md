@@ -4,7 +4,8 @@
 - 💞️ I’m looking to collaborate on Programming
 - 📫 How to reach me at gmail
 - 😄 Pronouns: pranali
-- ⚡ Fun fact: ugly
+- ⚡ Fun fact:
+- 🍱 love to it food
 
 <!---
 Pranali051/Pranali051 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
